@@ -24,4 +24,4 @@ function detectScheduleFromMessage(message) {
         };
     }
     return { status: "none" };
-}
+} 
